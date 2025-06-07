@@ -35,7 +35,7 @@ public class MoverAbu : MonoBehaviour {
     {
 
         if ((Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.JoystickButton0)) && PlayerPrefs.GetInt("Fin") == 0 && PlayerPrefs.GetInt("PuedeSaltar") == 1)
-            rb.velocity += velocidadSalto * Vector3.up;
+            rb.linearVelocity += velocidadSalto * Vector3.up;
 
         if (PlayerPrefs.GetInt("Fin") == 1 && contadorCrecer < 200)
         {
