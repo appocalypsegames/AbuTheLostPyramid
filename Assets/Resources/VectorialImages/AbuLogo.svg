@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="AbuLogo.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:label="Matte Ridge"
+       inkscape:menu="Ridges"
+       inkscape:menu-tooltip="Soft pastel ridge"
+       style="color-interpolation-filters:sRGB;"
+       id="filter1309">
+      <feGaussianBlur
+         stdDeviation="0.5"
+         result="result1"
+         id="feGaussianBlur1283" />
+      <feBlend
+         in="SourceGraphic"
+         mode="normal"
+         result="result5"
+         in2="result1"
+         id="feBlend1285" />
+      <feGaussianBlur
+         stdDeviation="3"
+         result="result6"
+         in="result5"
+         id="feGaussianBlur1287" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result6"
+         result="result8"
+         id="feComposite1289" />
+      <feComposite
+         operator="in"
+         result="fbSourceGraphic"
+         in="result6"
+         in2="result8"
+         id="feComposite1291" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0 "
+         id="feColorMatrix1293" />
+      <feGaussianBlur
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="0.5"
+         id="feGaussianBlur1295" />
+      <feSpecularLighting
+         specularExponent="55"
+         specularConstant="2"
+         surfaceScale="2"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0"
+         id="feSpecularLighting1299">
+        <fePointLight
+           z="20000"
+           y="-10000"
+           x="-5000"
+           id="fePointLight1297" />
+      </feSpecularLighting>
+      <feComposite
+         operator="arithmetic"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphicAlpha"
+         k1="1"
+         id="feComposite1301" />
+      <feComposite
+         k3="1"
+         k2="0.5"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite1303" />
+      <feComposite
+         operator="over"
+         in="result9"
+         in2="result4"
+         result="result91"
+         id="feComposite1305" />
+      <feBlend
+         mode="screen"
+         in2="result91"
+         id="feBlend1307" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="418.39459"
+     inkscape:cy="708.0057"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.29865193"
+       d="m 96.13708,31.884435 -29.278318,50.711631 -21.96094,38.037994 -6.92154,-4.778 -8.53023,1.28054 -12.97801,21.2757 0.61288,47.85135 h 20.27266 l -0.0248,-3.6897 56.891103,-0.65888 0.181385,4.34858 h 12.14964 l -0.23564,-5.641 58.37886,0.98857 0.0434,4.65243 h 19.13268 l -0.41392,-44.41279 -20.56309,2.3027 -0.13178,0.002 0.0393,4.22196 -34.71261,-0.9958 -0.005,-0.52762 4.79557,-9.2816 27.93576,-4.08709 2.05776,8.42584 13.57488,-1.70997 6.96082,-3.49591 -0.40256,-43.144664 -17.39997,1.87792 -3.28662,15.468824 -19.697,1.49138 -17.20618,-29.802314 z m 0,46.566671 9.43508,16.34163 9.43457,16.341134 H 96.13708 77.267947 l 9.434565,-16.341134 z m -17.499708,59.213954 11.11405,16.30754 0.02791,3.8287 -29.12381,4.64985 7.28225,-18.52859 10.567831,-6.25181 z m -43.00306,13.81311 5.49889,5.18522 5.4932,5.05292 -7.17372,2.14819 -7.03627,2.27479 1.54306,-7.32771 z"
+       id="flowRoot815-2"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot815-8"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.36901845,-4.4728561e-4,4.4728561e-4,0.36901845,366.03439,-31.511423)"><flowRegion
+         id="flowRegion817-2"
+         style="fill:#000000"><rect
+           id="rect819-5"
+           width="1042.8572"
+           height="462.85715"
+           x="-948.57141"
+           y="585.37683"
+           style="fill:#000000" /></flowRegion><flowPara
+         id="flowPara821-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:EgyptAxt;-inkscape-font-specification:EgyptAxt;fill:#000000">the lost pyramid</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path1555"
+       d="m 96.13708,31.884435 -29.278318,50.711631 -21.96094,38.037994 -6.92154,-4.778 -8.53023,1.28054 -12.97801,21.2757 0.61288,47.85135 h 20.27266 l -0.0248,-3.6897 56.891103,-0.65888 0.181385,4.34858 h 12.14964 l -0.23564,-5.641 58.37886,0.98857 0.0434,4.65243 h 19.13268 l -0.41392,-44.41279 -20.56309,2.3027 -0.13178,0.002 0.0393,4.22196 -34.71261,-0.9958 -0.005,-0.52762 4.79557,-9.2816 27.93576,-4.08709 2.05776,8.42584 13.57488,-1.70997 6.96082,-3.49591 -0.40256,-43.144664 -17.39997,1.87792 -3.28662,15.468824 -19.697,1.49138 -17.20618,-29.802314 z m 0,46.566671 9.43508,16.34163 9.43457,16.341134 H 96.13708 77.267947 l 9.434565,-16.341134 z m -17.499708,59.213954 11.11405,16.30754 0.02791,3.8287 -29.12381,4.64985 7.28225,-18.52859 10.567831,-6.25181 z m -43.00306,13.81311 5.49889,5.18522 5.4932,5.05292 -7.17372,2.14819 -7.03627,2.27479 1.54306,-7.32771 z"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:0;stroke:none;stroke-width:3.29865193" />
+  </g>
+</svg>
